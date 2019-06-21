@@ -5,3 +5,24 @@ Projects/SONIC Z-TREME/sl_coff.coff
 Projects/SONIC Z-TREME/sl_coff.bin
 Projects/SONIC Z-TREME/main.o
 Projects/SONIC Z-TREME/cd/0.bin
+Projects/SONIC Z-TREME/ZTE/ZT_TOOLS.o
+Projects/SONIC Z-TREME/ZTE/ZT_SYSTEM.o
+Projects/SONIC Z-TREME/ZTE/ZT_SPRITES.o
+Projects/SONIC Z-TREME/ZTE/ZT_RENDERING.o
+Projects/SONIC Z-TREME/ZTE/ZT_MENU.o
+Projects/SONIC Z-TREME/ZTE/ZT_LOAD_MODEL.o
+Projects/SONIC Z-TREME/SRC/controls.o
+Projects/SONIC Z-TREME/ZTE/ZT_LOADING.o
+Projects/SONIC Z-TREME/ZTE/ZT_GAME.o
+Projects/SONIC Z-TREME/ZTE/ZT_FRUSTUM.o
+Projects/SONIC Z-TREME/ZTE/ZT_ANIMATION.o
+Projects/SONIC Z-TREME/SRC/physics.o
+Projects/SONIC Z-TREME/SRC/game.o
+Projects/SONIC Z-TREME/ZTE/workarea.o
+Projects/SONIC Z-TREME/ZTE/ZT_VECTOR.o
+Projects/SONIC Z-TREME/ZTE/ZT_VDP2.o
+Projects/SONIC Z-TREME/ZTE/ZT_COLLISION.o
+Projects/SONIC Z-TREME/ZTE/ZT_CD.o
+Projects/SONIC Z-TREME/ZTE/ZT_AUDIO.o
+Emulators/mednafen/b/
+Emulators/mednafen/sav/
